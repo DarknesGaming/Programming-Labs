@@ -1,8 +1,8 @@
 # Programming Labs
 
-Welcome to my new repository for all of my labs, where all of my labs will be stored. That means I'm taking down my old "Java Labs" repository. I don't really think people noticed anyway.
+Welcome to my new repository for all of my labs, where all of my labs will be stored.
 
-I will make lots of labs in my life, and they may be in different programming languages (except machine code). To organize my labs, they will be sorted by programming languages (obviously), so whatever language you want to learn, the labs are there. I will document the labs so you can actually learn.
+I will make lots of labs in my life, and they will be in different programming languages (except machine code). To organize my labs, they will be sorted by programming languages (obviously), so whatever language you want to learn, the labs are there. I will document the labs so you can actually learn.
 
 I don't want to influence your decisions on what programming languages you want to learn first, should you want to become a programmer or you're doing this for fun. Some of these languages are harder to learn than others, but ultimately, it depends on how your brain operates.
 
@@ -40,8 +40,10 @@ Java: [Eclipse](http://eclipse.org). Supports Windows, macOS, and Linux.
 
 Python: [PyCharm](https://www.jetbrains.com/pycharm/?fromMenu). Supports Windows, macOS, and Linux.
 
+There's also the PyDev plugin that's available from the Eclipse Marketplace. It's free, but you must use the Eclipse IDE to get it.
+
 C++: 
 * [Eclipse](http://www.eclipse.org/downloads/packages/eclipse-ide-cc-developers/neon1a). Supports Windows, macOS, and Linux.
-* [Microsoft Visual Studio](https://www.visualstudio.com/). Supports Windows.
+* [Microsoft Visual Studio](https://www.visualstudio.com/). Supports Windows, and only Windows.
 
-More programming languages will be added soon, but that will take some time.
+More programming languages will be added soon, but that will take some time. Plus, I'm busy with life, which is very unfortunate.

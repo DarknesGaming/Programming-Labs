@@ -1,0 +1,55 @@
+###############################################################
+#                                                             #
+#              The Labs, and what they're for                 #
+#                                                             #
+#                  Creator: DarknesGaming                     #
+#                                                             #
+###############################################################
+
+These labs are written in Java, and I have designed them to teach the noobs the basics of Java.
+
+Because I am a student in Computer Science, I can only upload labs after I complete them. The labs
+are documented so you can learn what these methods do faster.
+
+Labs currently in existence:
+
+Lab 1 (ASCII Art)(September 8, 2016)
+Uses "System.out.println()" to create ASCII Art.
+
+Lab 2 (September 13, 2016)
+Uses double values, and "System.out.println()" to display the numbers that have been calculated.
+
+Lab 3 (September 16, 2016)
+Uses more double values, more equations and the "System.out.println()" method to display more
+numbers from more complex calculations.
+
+Lab 04A (September 20, 2016)
+Algebraic functions are used to perform algebraic math equations. Only one of these are introduced
+in Algebra II, which is a high school course.
+
+Lab 04B (September 28, 2016)
+We use Graphics to draw a few 2D objects, and a 3D cube.
+
+Lab 05A (October 3, 2016)
+Input your own numbers, and get your answers from the defined math equations.
+
+Lab 05B (October 6, 2016)
+We calculate how much money you have been charged based on how fast you were speeding, and if you
+were in a school zone.
+
+Lab 05C (October 11, 2016)
+We draw lines and circles inside a grid, and use "for" loops to complete this.
+
+Lab 05D (October 17, 2016)
+We draw a flag of the United Kingdom.
+
+Lab 06A (October 24, 2016)
+We use the random method defined in the Expo java file to create strange things in a grid.
+
+Lab 06B (October 26, 2016)
+We draw a house and practice modular programming while defining a new class in just one java
+source code file.
+
+Lab 07 (November 1, 2016)
+We create class files within class files, doing more modular programming, and doing some more
+math and input.

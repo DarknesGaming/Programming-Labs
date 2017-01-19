@@ -53,3 +53,27 @@ source code file.
 Lab 07 (November 1, 2016)
 We create class files within class files, doing more modular programming, and doing some more
 math and input.
+
+Lab 08 (November 11, 2016)
+We use object methods and class methods to build a simple Bank application that doesn't have input.
+We do exponential growth and decay from using just the growth() method.
+
+Lab 08B (November 14, 2016)
+We make more objects, money transfers, and use "if" and "else" statements to make sure things
+don't go wrong.
+
+Lab 09 (December 5, 2016)
+We draw a Christmas tree using super-classes, sub-classes, and a lot of private and protected
+variables.
+
+Lab 10 (December 7, 2016)
+We draw and attempt to animate a train. Your challenge is to fix the animation, and then send
+the fix to me using GitHub. Whoever can get this done first will get credit for Lab 10.
+
+Lab 11 (January 6, 2017)
+We draw random circles and sort them by their color using booleans, and the RGB scale. We will
+also use switch cases to determine the color rows each circle will be drawn in.
+
+Lab 12 (January 18, 2017)
+We will create arrays, and display them in mean, median, and mode.
+

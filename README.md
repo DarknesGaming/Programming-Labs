@@ -1,5 +1,7 @@
 # Programming Labs
 
+WARNING: As of January 24, this repository will be forked and actively worked on from my new account, known as [@tangalbert919](https://github.com/tangalbert919). Please go there for more labs in more programming languages.
+
 Welcome to my new repository for all of my labs, where all of my labs will be stored.
 
 I will make lots of labs in my life, and they will be in different programming languages (except machine code). To organize my labs, they will be sorted by programming languages (obviously), so whatever language you want to learn, the labs are there. I will document the labs so you can actually learn.
